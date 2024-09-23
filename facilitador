@@ -1,0 +1,202 @@
+Pesquisador
+Miguel Silva
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 3.100,00 
+Projeto = Acesso a Oportunidades
+Departamento = DIDES
+Cidade = Boa Vista
+Estado = Roraima
+
+Pesquisador
+Arthur Carvalho
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 2.500,00
+Projeto = Emprego no Turismo
+Departamento = DIMAC
+Cidade = Palmas
+Estado = Tocantins
+
+Pesquisador
+Helena Sousa
+Status = Inativo
+Valor da bolsa Pesquisador = R$ 4.000,00 
+Projeto = Brasil em Desenvolvimento
+Departamento = DIRUR
+Cidade = Porto Alegre
+Estado = Rio Grande do Sul
+
+Pesquisador
+Laura Pereira
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 2.500,00 
+Projeto = Mapa das Organizações da Sociedade Civil
+Departamento = DIMAC
+Cidade = Macapa
+Estado = Amapa
+
+Pesquisador
+Gabriel Luz
+Status =Ativo
+Valor da bolsa Pesquisador = R$ 3.200,00 
+Projeto = Observatório de Gestão do Conhecimento
+Departamento = DIDES
+Cidade = Belem
+Estado = Para
+
+Pesquisador
+Samuel Santos
+Status = Inativo
+Valor da bolsa Pesquisador = R$ 2.000,00
+Projeto = Acesso a Oportunidades
+Departamento = DIDES
+Cidade = Palmas
+Estado = Tocantins
+
+Pesquisador
+Maria Oliveira
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 2.500,00 
+Projeto = Acesso a Oportunidades
+Departamento = DIDES
+Cidade = Boa Vista
+Estado = Roraima
+
+Pesquisador
+Alice Rodrigues
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 3.100,00
+Projeto = Brasil em Desenvolvimento
+Departamento = DIRUR
+Cidade = Florianopolis
+Estado = Santa Catarina
+
+Pesquisador
+Bernardo Alves
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 2.000,0
+Projeto = Mapa das Organizações da Sociedade Civil
+Departamento = DIMAC
+Cidade = Porto Velho
+Estado = Rondonia
+
+Pesquisador
+Theo Gomes
+Status = Inativo
+Valor da bolsa Pesquisador = R$ 2.500,00
+Projeto = Observatório de Gestão do Conhecimento 
+Departamento = DIDES
+Cidade = Rio Branco
+Estado = Acre
+
+Pesquisador
+Ailton Santos
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 3.100,00
+Projeto = Atlas da Violência
+Departamento = DINTE
+Cidade = Cabo Frio
+Estado = Rio de Janeiro
+
+Pesquisador
+Ana Beatriz
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 2.100,00
+Projeto = Retrato das Desigualdades de Gênero e Raça
+Departamento = DISOC
+Cidade = Campinas
+Estado = São Paulo
+
+Pesquisador
+Bruno Gomes
+Status = Inativo
+Valor da bolsa Pesquisador = R$ 3.500,00
+Projeto = Retrato das Desigualdades de Gênero e Raça
+Departamento = DISOC
+Cidade = Guarulhos
+Estado = São Paulo
+
+Pesquisador
+Leticia Rodrigues
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 2.500,00
+Projeto = Índice de Vulnerabilidade Social
+Departamento = DISOC
+Cidade = Belo Horizonte
+Estado = Minas Gerais
+
+Pesquisador
+Vinicius Silva
+Status = Ativo
+Valor da bolsa Pesquisador = R$ 2.800,00
+Projeto = Atlas da Violência
+Departamento = DINTE
+Cidade = São Paulo
+Estado = São Paulo
+
+
+----------------------
+Projeto
+
+Nome do Projeto = Acesso a Oportunidades
+Valor do Projeto = R$ 15.000,00 
+Departamento = DIDES
+Filial Departamento = NORTE
+Fonte Financiadora = BID - Banco Interamericano de Desenvolvimento
+Valor a investir Fonte Financiadora = R$ 100.000,00
+
+Nome do Projeto = Brasil em Desenvolvimento
+Valor do Projeto = R$ 19.000,00 
+Departamento = DIRUR
+Filial Departamento = SUL
+Fonte Financiadora = BNDES - Banco Nacional de Desenvolvimento Econômico e Social
+Valor a investir Fonte Financiadora = R$ 30.000,00
+
+Nome do Projeto = Emprego no Turismo
+Valor do Projeto = R$ 35.000,00 
+Departamento = DIMAC
+Filial Departamento = NORTE
+Fonte Financiadora = BID - Banco Interamericano de Desenvolvimento
+Valor a investir Fonte Financiadora = R$ 100.000,00 
+
+Nome do Projeto = Mapa das Organizações da Sociedade Civil
+Valor do Projeto = R$ 55.000,00
+Departamento = DIMAC
+Filial Departamento = SUL
+Fonte Financiadora = BNDES - Banco Nacional de Desenvolvimento Econômico e Social
+Valor a investir Fonte Financiadora = R$ 200.000,00 
+
+Nome do Projeto = Observatório de Gestão do Conhecimento 
+Valor do Projeto = R$ 20.000,00 
+Departamento = DIDES
+Filial Departamento = SUL
+Fonte Financiadora = BNDES - Banco Nacional de Desenvolvimento Econômico e Social
+Valor a investir Fonte Financiadora = R$ 50.000,00
+
+Nome do Projeto = Atlas da Violência
+Valor do Projeto = R$ 45.000,00
+Departamento = DINTE
+Filial Departamento = SUDESTE
+Fonte Financiadora = BANERJ - Banco do Estado do Rio de Janeiro
+Valor a investir Fonte Financiadora = R$ 70.000,00
+
+Nome do Projeto = Centro de Pesquisa em Ciência, Tecnologia e Sociedade
+Valor do Projeto = R$ 25.000,00 
+Departamento = DISOC
+Filial Departamento = SUDESTE
+Fonte Financiadora = BANESPA - Banco do Estado de São Paulo
+Valor a investir Fonte Financiadora = R$ 45.000,00 
+
+Nome do Projeto = Retrato das Desigualdades de Gênero e Raça
+Valor do Projeto =  R$ 32.000,00  
+Departamento = DISOC
+Filial Departamento = SUDESTE
+Fonte Financiadora =  BANESPA - Banco do Estado de São Paulo
+Valor a investir Fonte Financiadora = R$ 85.000,00 
+
+Nome do Projeto = Índice de Vulnerabilidade Social
+Valor do Projeto =  R$ 60.000,00 
+Departamento = DISOC
+Filial Departamento = SUDESTE
+Fonte Financiadora = BDMG - Banco de Desenvolvimento de Minas Gerais
+Valor a investir Fonte Financiadora = R$ 120.000,00 
+
